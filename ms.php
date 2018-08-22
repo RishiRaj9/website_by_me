@@ -21,7 +21,7 @@
 	<li><a href="http://localhost:8181/rr/Contact.php"> Contact  </a></li>
 	</ul>
 </div>
-<div class="aa">|| Matrika Shakti ||<br/><br/><marquee direction="right" onmouseover="this.stop()"
+<div class="aa">|| M S ||<br/><br/><marquee direction="right" onmouseover="this.stop()"
 onmouseout="this.start()">An Astro advice center</marquee></div>
 
 <div class="b"></div>
