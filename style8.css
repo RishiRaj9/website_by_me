@@ -1,0 +1,60 @@
+.aa{
+	width:100%;
+	height:45px;
+	position: fixed;
+	z-index: 1;
+	background-color:gray;
+	top:0;
+	left:0;
+}
+li{
+		display:inline-block;
+		background-color: gray;
+		color:orange;
+		cursor:pointer;
+		font-size: 25px;
+	}
+/*.z{
+		color:white;
+	}
+	li:hover{
+		background-color: white;
+	}*/
+a:link {
+    color: orange;
+    text-decoration: none;
+}
+a:visited {
+    color: orange;
+    text-decoration:none;
+}
+a:hover {
+    color: orange;
+    text-decoration: underline;
+}
+a:active {
+    color: black;
+    text-decoration: underline;
+}
+body{
+	background-image: url("astro/bg2.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.m{
+	width:100%;
+	height:92px;
+	position:absolute;
+	background-color:orange;
+	color:black;
+	font-size: 20px;
+	top:800;
+	left:0;
+}
+marquee{
+	position:absolute;
+	top:50;
+	color:orange;
+	font-size: 30px;
+	font-style: italic;
+}

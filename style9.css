@@ -1,0 +1,81 @@
+.aa{
+	width:100%;
+	height:45px;
+	position: fixed;
+	z-index: 1;
+	background-color:gray;
+	top:0;
+	left:0;
+}
+li{
+		display:inline-block;
+		background-color: gray;
+		color:orange;
+		cursor:pointer;
+		font-size: 25px;
+	}
+/*.z{
+		color:white;
+	}
+	li:hover{
+		background-color: white;
+	}*/
+a:link {
+    color: orange;
+    text-decoration: none;
+}
+a:visited {
+    color: black;
+    text-decoration:none;
+}
+a:hover {
+    color: orange;
+    text-decoration: underline;
+}
+a:active {
+    color: black;
+    text-decoration: underline;
+}
+body{
+	background-image: url(astro/bg7.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment:fixed;
+	color:white;
+}
+.regbox{
+	position:absolute;
+	top:140;
+	left: 330;
+	width:650px;
+	height:765px;
+	padding:20px 20px 40px;
+	box-sizing:border-box; 
+	background:rgba(0,0,0,0.7);
+}
+h1{
+	text-align: center;
+	color:orange;
+}
+form{
+	color:white;
+	text-align: center;
+}
+input{
+	background:transparent;
+	outline:none;
+	border:none;
+	border-bottom: 1px solid #fff;
+	color: white;
+}
+.m{
+	width:100%;
+	height:92px;
+	position:absolute;
+	background-color:orange;
+	color:black;
+	font-size: 20px;
+	top:1000;
+	left:0;
+	z-index: 1;
+}
